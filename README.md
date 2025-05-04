@@ -25,7 +25,7 @@ This repository documents my comprehensive journey through Python programming, f
    - Product management system
    - User authentication
 
-   ![PyShop Homepage](images/Screenshot(37).png)
+   ![PyShop Homepage](images/Screenshot.png)
    <!-- Add your PyShop application screenshot here -->
 
 5. **Jupyter Lab Projects**
